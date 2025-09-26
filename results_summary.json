@@ -1,0 +1,35 @@
+{
+  "total_records": 102,
+  "sentiment_counts": {
+    "neutral": 63,
+    "negative": 39
+  },
+  "avg_escalation_prob": 0.4555657767286789,
+  "high_risk_calls": [
+    {
+      "transcript": "how's it going Arthur I just placed an order with you guys and I accidentally sent it to the wrong address can you please help me change this",
+      "sentiment_pred": "negative",
+      "escalation_prob": 0.8402538204841763
+    },
+    {
+      "transcript": "hey I receive my order but it's the wrong size can I get a refund please",
+      "sentiment_pred": "negative",
+      "escalation_prob": 0.8501564545202984
+    },
+    {
+      "transcript": "hey I bought something from your website the other day and it arrived but it's it's not the thing that I ordered is there someone I can talk to her to fix this up",
+      "sentiment_pred": "negative",
+      "escalation_prob": 0.858579201263077
+    },
+    {
+      "transcript": "do you currently offer any new promotions at the moment",
+      "sentiment_pred": "neutral",
+      "escalation_prob": 0.858579201263077
+    },
+    {
+      "transcript": "yeah hello someone this morning delivered a package but I think it's I think it's not the right one that I ordered is there someone I can talk to you too to change it",
+      "sentiment_pred": "negative",
+      "escalation_prob": 0.7824039467047951
+    }
+  ]
+}
