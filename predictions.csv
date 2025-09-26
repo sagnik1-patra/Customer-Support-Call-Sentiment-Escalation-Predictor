@@ -1,0 +1,103 @@
+transcript,sentiment,sentiment_pred,sentiment_conf,escalation_prob
+how's it going Arthur I just placed an order with you guys and I accidentally sent it to the wrong address can you please help me change this,negative,negative,0.6710613602156765,0.8402538204841763
+yeah hello I'm just wondering if I can speak to someone about an order I received yesterday,neutral,neutral,0.7998494494144447,0.0058378694182433105
+hey I receive my order but it's the wrong size can I get a refund please,negative,negative,0.8351830111936712,0.8501564545202984
+hi David I just placed an order online and I was wondering if I could make an alteration to that order before you send it off,neutral,neutral,0.8342777460094931,0.006096726265405356
+hey I bought something from your website the other day and it arrived but it's it's not the thing that I ordered is there someone I can talk to her to fix this up,negative,negative,0.717779351970884,0.858579201263077
+hey mate just looking to make some alterations to my order I just placed,neutral,neutral,0.8104243738435017,0.18510193819050433
+hi I just ordered a new phone and I was just wondering if I could cancel out order and organise a refund,neutral,neutral,0.7591719909235258,0.21737168435861576
+yeah hey I need I need some help with it with an order that I ordered the other day it it came in it wasn't it wasn't correct,negative,neutral,0.5407823072860409,0.42124114330528695
+yeah I just placed in all this you guys and I was wondering if I could change a few things before it's shift out,neutral,neutral,0.7397337558049103,0.03523747779292267
+hey I just ordered the blue and yellow shoes off your website and I was wondering if I could cancel that order and organise a refund,neutral,neutral,0.6986405867215855,0.016682055919964224
+hey Polly just looking to place an order but before I proceed I'm just wondering if this offer still stands,neutral,neutral,0.8081174818536068,0.007053422687267177
+do you currently offer any new promotions at the moment,neutral,neutral,0.7688632585671,0.858579201263077
+hey so I just placed an order with your company and I was just wondering where I can find my reference number,neutral,neutral,0.7965139649222864,0.013482137916647024
+just wondering if there's any tutorials on how to setup my device I just received,neutral,neutral,0.8155417345162542,0.029050910126078168
+I've just bought a product new guys and I want to know what your return keys and Caesar,neutral,neutral,0.7489079157146614,0.6687968979616914
+yeah hello someone this morning delivered a package but I think it's I think it's not the right one that I ordered is there someone I can talk to you too to change it,negative,negative,0.655453140812808,0.7824039467047951
+I'm just happy with the colour that I got from you guys so is there any chance I can change it for a different one,positive,neutral,0.5840566370643744,0.13457217152994738
+hey mate how are you doing just wanted to know if there's any support I can get on this device how to set it up,neutral,neutral,0.8182514768119583,0.12148269167700716
+hi I saw your new phone on your website I was wondering if you have any setup tips for,neutral,neutral,0.8261099257291561,0.14121507687210041
+hi I just ordered a new t-shirt and I was wondering if I could cancel an order and organise a refund,neutral,neutral,0.6957166715502058,0.21737168435861576
+hi I just ordered the green and blue shoes off your website and I was wondering if I could add a shirt to my order before you send it,neutral,neutral,0.8393649872777075,0.028865316306700087
+hey I'm just not happy with the product that you guys send me is there any chance I can swap it out for another one,negative,negative,0.6558299111546481,0.9362670388619141
+hi Michael just looking to enquire about a few things before I place an order I was wondering if you could help me,neutral,neutral,0.8802390889326278,0.005223926008886312
+I bought a pair of pants from you guys but they're way too small,negative,negative,0.7138881929843195,0.858579201263077
+all the things I receive my order yesterday with damaged I'm not sure what happened to delivery is there someone that can give me a hand,negative,negative,0.7177326964250265,0.9021493697893656
+my order a 64321 arrived this morning but there's something wrong with it is there someone I can talk to you to fix it,negative,negative,0.917972077348224,0.9827336057106122
+just received the product from you guys and it didn't meet my expectations can I please get a refund,negative,negative,0.532097295003813,0.16313670812335554
+hi I just ordered some shoes and I was just wondering if I could cancel the order and make a refund,neutral,neutral,0.772607196615902,0.21737168435861576
+is there anybody that can help me set up this product or any how to use,neutral,neutral,0.7584574498950101,0.3895984667655376
+I recently got these pair of shoes but they're too big can I change the size,negative,neutral,0.5907349769703986,0.858579201263077
+your hi Jacob looking to make an order but just have a few questions regarding some products that you have online,neutral,neutral,0.8158516573427007,0.16398379251219933
+hey I ordered something yesterday and it arrived it arrived this morning but it seems like there's a few a few extra things in there that I didn't really order is there someone that I can talk to you to fix this up,negative,negative,0.5946702149368953,0.7938477102241428
+the box that you sent me yesterday arrived but it's damaged the someone I can talk to about a replacement,negative,negative,0.8909006118250967,0.9904141187996236
+a couple of days ago I got a message saying that my package has been delivered it wasn't delivered that day but it still hasn't arrived there someone I can talk to about my order,negative,negative,0.7578719717293665,0.8551571561708251
+I just placed an order online and I was just wondering when I'll get my confirmation email,neutral,neutral,0.8155568011376118,0.007053422687267177
+yeah hello someone this morning delivered a package but I think it's I think it's not the right one that I ordered is there someone I can talk to you too to change it,negative,negative,0.655453140812808,0.7824039467047951
+hey I was wondering if you know where my new phone is that I just recently ordered,neutral,neutral,0.8711028762781248,0.029050910126078168
+I just received this device and I'd love some supported to be able to set it up,neutral,neutral,0.8377481624332416,0.10869147459874043
+hey I was just looking online at your shoes and I was wondering if you have this friend in Pink,neutral,neutral,0.8825222738036373,0.024612459306225107
+hello someone from your team delivered my package today but it's it's got a problem with it,negative,negative,0.8289800201900364,0.9904141187996236
+hi I just recently placed an order with your company I was just wondering if you know the status of my shipment,neutral,neutral,0.8572387915874147,0.007053422687267177
+the shipment I received is wrong,negative,negative,0.8934640627562964,0.9904141187996236
+hey I'm calling up to to see if I can talk to someone to help with her a shipment that I received yesterday,neutral,neutral,0.5672085917656526,0.3828716383507014
+hey man I just bought a product from you guys and I think it's amazing but I need a little help setting it up,positive,neutral,0.5517489859076262,0.2762363013178776
+the shipment I received is wrong,negative,negative,0.8934640627562964,0.9904141187996236
+hi Jacob I just placed an order with you guys but I found the same product online at another store for a cheaper price I was wondering if you could price match it or could I cancel this order,neutral,neutral,0.5574959570598745,0.09775176537924304
+hey my name is Daniel I received my shipment yesterday but it's wrong can I change it,negative,negative,0.8857732636682172,0.9904141187996236
+hi I placed an order a couple days ago and I was just wondering why my tracking number isn't working,negative,neutral,0.5330109351302682,0.2986005574857539
+hey I just ordered the new phone and I was wondering if I could get earpods put into that order just dial before you guys send it,neutral,neutral,0.8054322833191655,0.007053422687267177
+I would have a couple of things from you guys the other day and two it two of them two of them great and I love them but the other one is is not the right thing,neutral,neutral,0.5868224078150664,0.3895984667655376
+hi just about to order these shoes online I was just wondering if you have any different sizes in store,neutral,neutral,0.8553166151236933,0.007053422687267177
+my shipment arrived yesterday but it's not the right thing is there someone I can talk to you to fix it up,negative,negative,0.7467381191625909,0.858579201263077
+I bought a pair of pants from you guys and they are just a bit too long do you guys do Hemi,negative,negative,0.6339369520297352,0.6653106182421872
+hi I was just looking at finding a new phone I was wondering if you could recommend anything to me,neutral,neutral,0.8924841680889624,0.024612459306225107
+accidentally made some errors in the order I recently just place I was wondering if you could help me,neutral,neutral,0.6650443688942967,0.11900178541545088
+I bought a hat from you guys and it's just too big is there anyway I can get it down size and what's your policies on that,negative,neutral,0.5070487185373428,0.5453337790923496
+I'm calling out to talk about a package I got yesterday it so I got it but I need to do I need some help with setting it up,neutral,neutral,0.6504003131624683,0.3895984667655376
+hi I was just wondering if you have the extra large tea and blue,neutral,neutral,0.8068228057764494,0.029050910126078168
+I purchase something from your online store yesterday but the receipt didn't come through can can I get another receipt emailed please,negative,negative,0.5039632918042087,0.3895984667655376
+hey my order arrived today but it's it's there's a it's I don't think it's the one that I ordered I checked the receipt and it doesn't match what what a ride,negative,negative,0.6822651646921555,0.8551571561708251
+my package was supposed to be delivered yesterday but if it didn't arrive is there someone I can talk to about my order,negative,negative,0.7529082726113516,0.8000359349122254
+I just placed an order and I was wondering if I could change my shipping time from standard business days to rush if possible,neutral,neutral,0.7508123199257273,0.06786322537558422
+hey how are you doing I just put a cat from you guys and it's just the Wrong Colours is there any chance I can change that,negative,negative,0.7732689994393562,0.9362670388619141
+hey mate I just finished paying for my order and I was just wondering when I'm going to get that email to confirm it,neutral,neutral,0.7781211594604278,0.010083088961415385
+these clothes I just bought from you guys too small is there any way I can change the size,negative,negative,0.6448741609814839,0.5453337790923496
+what's the process I have to go through to send my product back for a swap,neutral,neutral,0.6990358582494433,0.858579201263077
+my shipment arrived this afternoon but it's wrong size is there anyone I can talk to you to change it,negative,negative,0.9278296142646244,0.9904141187996236
+my shipment arrived this afternoon but it's wrong size is there anyone I can talk to you to change it,negative,negative,0.9278296142646244,0.9904141187996236
+hey mate how you doing just calling in regards to the phone I just purchased from you guys faulty not working and there was damaged on the way here,negative,negative,0.8136016555567982,0.9709953308900381
+my package was supposed to be delivered yesterday but if it didn't arrive is there someone I can talk to about my order,negative,negative,0.7529082726113516,0.8000359349122254
+hey just looking to place an order but I see that you have a promotion still running can you give me some more details behind this promotion,neutral,neutral,0.7805464441886716,0.6540010165188731
+hi Tony I just placed an order I'm currently having a few problems I was wondering if you could help me,neutral,neutral,0.7620472925904065,0.05986707414262979
+I just ordered the new remote control car off your website I was just didn't see how many horsepower it has can you tell me,neutral,neutral,0.735157582345712,0.4889476295574426
+yeah hi John just calling in regards to a recent order I just placed I found a cheaper product online and I was wondering if I could cancel that,neutral,neutral,0.8170061443043908,0.035802518457918354
+I just bought a product from you guys and I wouldn't want to know if I can send it back to get a colour change,neutral,neutral,0.6524392638999207,0.7077442095085972
+I was looking online it says that you're only sizes available or large and small I was wondering if you'll have any mediums in soon,neutral,neutral,0.7770157085315627,0.1782925626814268
+I bought a pair of pants and they're the wrong colour is there any chance I can change that,negative,negative,0.8496915418910281,0.9345250474731699
+my shipment arrived yesterday but it's not the right thing is there someone I can talk to you to fix it up,negative,negative,0.7467381191625909,0.858579201263077
+hey mate there must have been a problem with the shipping because the product I just received from you is damaged,negative,negative,0.8111646948428981,0.9709953308900381
+hey mate I just bought a product from you guys and I'm just not happy with the pot the product can I return it,negative,negative,0.6882517088444271,0.9709953308900381
+yeah hey Steve just calling in regards to a recent order I just placed I was wondering if I could cancel that order,neutral,neutral,0.8047238492895689,0.00842806680497376
+wrong package delivered,negative,negative,0.9518091675465394,0.9904141187996236
+party thank god I'm free been on hold for the last 30 minutes you got a couple of complaints made about this order I just posted,neutral,neutral,0.7170998995535044,0.21836575526403942
+hey mate just have a few questions regarding the recent order I just posted it shows that it's coming from overseas however when I look at the Australian soccer shop online it says that there's current stock in store for the Australian store,neutral,neutral,0.7670190471711671,0.39259545809250435
+hi just calling in regards to my order on November the 3rd I was just wondering when that's going to leave your office,neutral,neutral,0.7885203327443296,0.08149890193308489
+all the things I receive my order yesterday with damaged I'm not sure what happened to delivery is there someone that can give me a hand,negative,negative,0.7177326964250265,0.9021493697893656
+my order a 64321 arrived this morning but there's something wrong with it is there someone I can talk to you to fix it,negative,negative,0.917972077348224,0.9827336057106122
+hi I just pre-ordered the nudity and this is my order number but doctor I was just wondering if you know where abouts it isn't shipment,neutral,neutral,0.7297035930183563,0.06713620396508446
+calling in regards to the order I just got would love some support,neutral,neutral,0.8408905351064203,0.03492254825829124
+hey I was just wondering about the sizing on your shirts it says us as how does that relate to AUD,neutral,neutral,0.7725938148781492,0.05852705995225795
+what's your refund policy on items that I've purchased from you guys,neutral,neutral,0.5215822899884235,0.858579201263077
+I just bought a item from you guys and I'd want to know if I can swap it for a different colour,neutral,neutral,0.7228673324601955,0.2514114290128138
+I just placed an order I was wondering how long shipping time would be expected to be,neutral,neutral,0.7925311867124794,0.007053422687267177
+I got my order yesterday and the order number is 1863 3845 I'm just calling up to to check some more details on that,neutral,neutral,0.7504775116827181,0.24092079140583514
+it says here you have the iPhone x l and X I was wondering if you still stock the iPhone 10,neutral,neutral,0.7666586819290315,0.1782925626814268
+yeah hi Tommy I just placed an order with you guys but I use the wrong payment processing method I was wondering if I could change that,negative,negative,0.7307456139189327,0.8591900215497078
+the product arrived and there was a few things in the box but two of them the wrong is there someone I can talk to about fixing up my order,negative,negative,0.8808239187177594,0.9827336057106122
+yeah hello I'm just wondering if I can speak to someone about an order I received yesterday,neutral,neutral,0.7998494494144447,0.0058378694182433105
+hi I recently ordered a new phone and I'm just wondering where I could find my reference number for the delivery,neutral,neutral,0.8279554796487538,0.05168311832366868
+just looking to get some more information on the current promotions you're offering right now before I place my order,neutral,neutral,0.7905492975624493,0.16398379251219933
+hi I just realised I ordered the wrong computer I was wondering if I could just cancel that and organise a refund,negative,negative,0.7076974625085939,0.5425810602535575
+hey mate how you doing I'm just calling in regards to the product that god it's faulty and doesn't work,negative,negative,0.6015820828745853,0.9464952317822737

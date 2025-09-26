@@ -1,0 +1,15 @@
+artifacts:
+  insights: C:\Users\NXTWAVE\Downloads\Customer Support Call Sentiment & Escalation
+    Predictor\insights.json
+  predictions: C:\Users\NXTWAVE\Downloads\Customer Support Call Sentiment & Escalation
+    Predictor\predictions.csv
+  visuals: C:\Users\NXTWAVE\Downloads\Customer Support Call Sentiment & Escalation
+    Predictor\visuals
+dataset: C:\Users\NXTWAVE\Downloads\Customer Support Call Sentiment & Escalation Predictor\archive\customer_call_transcriptions.csv
+features_dim: 268
+models:
+  escalation_model: C:\Users\NXTWAVE\Downloads\Customer Support Call Sentiment & Escalation
+    Predictor\escalation_model.pkl
+  sentiment_model: C:\Users\NXTWAVE\Downloads\Customer Support Call Sentiment & Escalation
+    Predictor\sentiment_model.pkl
+records: 102
