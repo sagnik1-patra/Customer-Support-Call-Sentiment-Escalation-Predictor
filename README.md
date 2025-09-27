@@ -1,4 +1,4 @@
-📞 CallSense — Customer Support Call Sentiment & Escalation Predictor
+📞 CallSense — Customer Support Call Sentiment & Escalation Predictor.
 📌 Overview
 
 CallSense is an NLP pipeline that analyzes customer support call transcripts to:
